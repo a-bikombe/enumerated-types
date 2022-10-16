@@ -1,0 +1,3 @@
+# Enumerated Types
+
+Book conditions
